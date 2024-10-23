@@ -1,0 +1,16 @@
+1 Red Building
+2 IT Department
+3 CS Department
+4 Gallery
+5 ECE Department
+6 S&H
+7 Mechanical Department
+8 Manufacturing Department
+9 Knowledge Park
+10 Anicham Hostel
+11 NRI Hostel
+12 Hostel Mess
+13 Gurunath
+14 Health Centre
+15 CTF
+16 Vivek Auditorium
